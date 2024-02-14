@@ -37,6 +37,9 @@
   <img align="left" alt="React Native" width="60px" src="https://cdn.jsdelivr.net/gh/kristerkari/react-native-svg-transformer/images/react-native-logo.png" style="padding-right:10px;" />
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" style="padding-right:10px;"/>
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" style="padding-right:10px;"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="java" height="60" style="padding-right:10px;"/>
+  <img align="left" src="https://www.ambient-it.net/wp-content/uploads/2022/05/Logo-Apache-Maven.png" alt="maven" width="60" style="padding-right:10px;"/>
+
 
 
 <br /><br /><br />
