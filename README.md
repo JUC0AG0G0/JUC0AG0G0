@@ -4,7 +4,8 @@
 
 ## Editors
 <img align="left" alt="VIM" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:10px;" />
-<img align="left" alt="VIM" width="60px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/jetbrains_logo_icon_145150.png" style="padding-right:10px;" />
+<img align="left" alt="jetbrain" width="60px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/jetbrains_logo_icon_145150.png" style="padding-right:10px;" />
+<img align="left" alt="Eclipse" width="60px" src="https://www.thierryleroy.com/wp-content/uploads/logo-eclipse.png" style="padding-right:10px;" />
 
 
 
