@@ -20,7 +20,7 @@
   <img align="left" alt="Jira" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="padding-right:10px;" />
   <img align="left" alt="Docker" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
   <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" style="padding-right:10px;"/>
-
+  <img align="left" src="https://www.logiciel-libre.org/stock/img/product/logo-subversion.png" alt="svn" width="60" style="padding-right:10px;"/>
 
 
 
@@ -38,8 +38,9 @@
   <img align="left" alt="React Native" width="60px" src="https://cdn.jsdelivr.net/gh/kristerkari/react-native-svg-transformer/images/react-native-logo.png" style="padding-right:10px;" />
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" style="padding-right:10px;"/>
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" style="padding-right:10px;"/>
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="java" height="60" style="padding-right:10px;"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="java" width="60" style="padding-right:10px;"/>
   <img align="left" src="https://www.ambient-it.net/wp-content/uploads/2022/05/Logo-Apache-Maven.png" alt="maven" width="60" style="padding-right:10px;"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnet" width="60" style="padding-right:10px;"/>
 
 
 
