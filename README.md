@@ -27,11 +27,10 @@
 
 <br /><br /><br />
 
-## Languages
+## Techno
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60" width="60" style="padding-right:10px;"/> 
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60" width="60" style="padding-right:10px;"/>
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60" width="60" style="padding-right:10px;"/>
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="60" width="60" style="padding-right:10px;"/>
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" width="60" style="padding-right:10px;"/> 
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="60" width="60" style="padding-right:10px;"/>
   <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="60" width="60" style="padding-right:10px;"/>
